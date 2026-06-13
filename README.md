@@ -31,4 +31,4 @@ I'm also part of WAIT (Wrocław AI Team), where we're creating meetups for commu
 
 ## 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piotr%20Antoniszyn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Piotr%20Antoniszyn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-antoniszyn-a195a8151/)
